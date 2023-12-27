@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jcd1.3.1/1.0.0": {
+        "runtime": {
+          "jcd1.3.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jcd1.3.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
